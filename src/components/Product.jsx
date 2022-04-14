@@ -58,7 +58,7 @@ export default function Products() {
               <option value="">All</option>
               <option value="afford">Affordable</option>
               <option value="cost">Expensive</option>
-              <option value="cheap">Cheap</option>
+              <option value="cheap">Normal</option>
             </select>
           </div>
         </div>
